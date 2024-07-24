@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f9c0c80d715c45438f248846a94b510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: SpaceHub
+  sceneName: SpaceshipInteriorHub
 --- !u!4 &518538102
 Transform:
   m_ObjectHideFlags: 0
