@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Pluto.unity
+    guid: 0fca167f169ea2e4ab0d96cfbda339ba
+  - enabled: 1
     path: Assets/Scenes/TitleScreen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/SpaceHub.unity
-    guid: 2dcec1c776f825e46934cd4a773c74e6
+    path: Assets/Scenes/SpaceShipInteriorHub/SpaceshipInteriorHub.unity
+    guid: 74e277e862948874b97167e1d97f8a5f
   m_configObjects: {}
