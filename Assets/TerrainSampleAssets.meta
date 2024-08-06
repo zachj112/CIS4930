@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: fbde2ea151ae0ef45bbc6810b4646319
+=======
+guid: ebb8ef9c4c3bcd649b1e437dfbdd4d39
+>>>>>>> Andrew-branch
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: b33181fff25877e479daa228bec99c52
+=======
+guid: acbfe4eacb18e924bab32eb7835bbad1
+>>>>>>> Andrew-branch
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
