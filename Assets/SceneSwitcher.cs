@@ -18,7 +18,7 @@ public class SceneSwitcher : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.G))
         {
             // Load the new scene
-            SceneManager.LoadScene("TestScene");
+            SceneManager.LoadScene("SpaceshipInteriorHub");
         }
     }
 }
